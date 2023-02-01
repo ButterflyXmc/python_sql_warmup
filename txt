@@ -23,6 +23,7 @@ id's
 prices
 8. Create a stored proecdure that will take 2 arguments, an item_id and 
 sales_person_id and INSERT a new row into item_sale
+
 9. In your python, create a function that will:
 9.1. show the user all available sales people for them to pick
 9.2. prompt the user to pick a sales person
@@ -35,3 +36,5 @@ will:
 an item with a sales person, or quit the app
 12. Take a full DB backup
 13. Add, commit and push your code
+
+<!-- Run you file after you connect your database -->
